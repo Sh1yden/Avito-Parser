@@ -1,5 +1,6 @@
 # Импорт нужных библиотек.
 import requests
+import json
 from bs4 import BeautifulSoup
 
 
@@ -25,8 +26,11 @@ def new_file_site(reponse: str):
     """
 
     # Создание файла в определённом месте, под запись, с кодировкой "UTF-8"(обязательно указывать для html).
-    with open("C:\\Users\\Shayden\\Documents\\VS Code Projects\\Python\\Parsing\\AvitoSiteInFile.html",
-              "w", encoding="utf-8") as file:
+    with open(
+        "AvitoSiteInFile.html",
+        "w",
+        encoding="utf-8",
+    ) as file:
         file.write(reponse)
 
 
@@ -36,8 +40,11 @@ def replace_reponse():
     """
 
     # Создание файла в определённом месте, под запись, с кодировкой "UTF-8"(обязательно указывать для html).
-    with open("C:\\Users\\Shayden\\Documents\\VS Code Projects\\Python\\Parsing\\AvitoSiteInFile.html",
-              "r", encoding="utf-8") as file:
+    with open(
+        "AvitoSiteInFile.html",
+        "r",
+        encoding="utf-8",
+    ) as file:
         reponse = file.read()
 
     return reponse
@@ -63,8 +70,10 @@ def price(soup):
     price_list = []
 
     for i in price:
-        price_list.append(f"{i.find("span").text} // {i.find("p",
-                          class_="styles-module-root-s4tZ2 styles-module-size_s-nEvE8 styles-module-size_s-PDQal stylesMarningNormal-module-root-_xKyG stylesMarningNormal-module-paragraph-s-HX94M styles-module-noAccent-XIvJm").text}")
+        price_list.append(
+            f"{i.find("span").text} // {i.find("p",
+                          class_="styles-module-root-s4tZ2 styles-module-size_s-nEvE8 styles-module-size_s-PDQal stylesMarningNormal-module-root-_xKyG stylesMarningNormal-module-paragraph-s-HX94M styles-module-noAccent-XIvJm").text}"
+        )
 
     return price_list
 
@@ -88,7 +97,7 @@ def date(soup):
         date_list.append(i.text)
 
     for i in date_list:
-        if i == '' or i == ' ' or i == None:
+        if i == "" or i == " " or i == None:
             return_date_list.append("[ДАННЫЕ УДАЛЕНЫ]")
         else:
             return_date_list.append(i)
@@ -107,30 +116,79 @@ def link_post(soup):
     return link_list
 
 
-def new_file(name: str,
-             heading_list: list,
-             price_list: list,
-             address_list: list,
-             date_list: list,
-             link_list: list,):
+def new_file_txt(
+    name: str,
+    heading_list: list,
+    price_list: list,
+    address_list: list,
+    date_list: list,
+    link_list: list,
+):
     """
     Создание итогового файла со всеми данными.
     """
 
-    # Создание файла в определённом месте, под запись, с кодировкой "UTF-8"(обязательно указывать для html).
-    with open(f"C:\\Users\\Shayden\\Documents\\VS Code Projects\\Python\\Parsing\\{name}.txt",
-              "w", encoding="utf-8") as file:
+    # Создание файла в определённом месте, под запись, с кодировкой "UTF-8".
+    with open(
+        f"{name}.txt",
+        "w",
+        encoding="utf-8",
+    ) as file:
         # Через цикл получаем файл с данными по разным строкам благодаря "\n".
-        for i in range(len(heading_list) and len(price_list) and len(address_list)
-                       and len(date_list) and len(link_list)):
-            file.writelines(f"""
+        for i in range(
+            len(heading_list)
+            and len(price_list)
+            and len(address_list)
+            and len(date_list)
+            and len(link_list)
+        ):
+            file.writelines(
+                f"""
 Квартира номер {i + 1}:
     Заголовок: {heading_list[i]}
     Цена: {price_list[i]}.
     Адрес: {address_list[i]}.
     Выложено: {date_list[i] if i < len(date_list) else "[ДАННЫЕ УДАЛЕНЫ]"}.
     Ссылка на пост: https://www.avito.ru{link_list[i]}
-""")
+"""
+            )
+
+
+def new_file_json(
+    name: str,
+    heading_list: list,
+    price_list: list,
+    address_list: list,
+    date_list: list,
+    link_list: list,
+):
+    """
+    Создание итогового файла со всеми данными, но в формате json.
+    """
+
+    # Создание словаря для передачи в файл в формате json.
+    py_json = dict()
+
+    # Заполнение словаря данными.
+    for i in range(
+        len(heading_list)
+        and len(price_list)
+        and len(address_list)
+        and len(date_list)
+        and len(link_list)
+    ):
+        py_json[f"Квартира номер {i + 1}"] = {
+            "Заголовок": heading_list[i],
+            "Цена": price_list[i],
+            "Адрес": address_list[i],
+            "Выложено": date_list[i] if i < len(date_list) else "[ДАННЫЕ УДАЛЕНЫ]",
+            "Ссылка на пост": f"https://www.avito.ru{link_list[i]}",
+        }
+
+    # Создание файла json и внесение данных со словаря в него.
+    with open(f"{name}.json", "w", encoding="utf-8") as json_file:
+        # ensure_ascii=False - нормально отображает русские символы. indent=4 - отступы в 4 пробела.
+        json.dump(py_json, json_file, indent=4, ensure_ascii=False)
 
 
 def print_all():
@@ -153,12 +211,28 @@ def main():
     # Запустить один раз:
     # reponse_site()  # Запрос сайта на отдачу html файла.
 
-    # # Cоздание html файла сайта прямо на пк(чтобы не блокало).
+    # Cоздание html файла сайта прямо на пк(чтобы не блокало).
     # new_file_site(reponse_site())
 
     # Создание файла с паршенными данными.
-    new_file("Avito Parcer", heading(main_soup), price(main_soup),
-             address(main_soup), date(main_soup), link_post(main_soup))
+    new_file_txt(
+        "ParserOutput",
+        heading(main_soup),
+        price(main_soup),
+        address(main_soup),
+        date(main_soup),
+        link_post(main_soup),
+    )
+
+    # Создание файла с паршенными данными. Только в формате json.
+    new_file_json(
+        "ParserOutput",
+        heading(main_soup),
+        price(main_soup),
+        address(main_soup),
+        date(main_soup),
+        link_post(main_soup),
+    )
 
     # print_all() # режим отладки
 

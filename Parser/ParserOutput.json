@@ -1,0 +1,366 @@
+{
+    "Квартира номер 1": {
+        "Заголовок": "1-к. квартира, 42,5 м², 2/11 эт.",
+        "Цена": "6 999 000 ₽ // 164 682 ₽ за м²",
+        "Адрес": "ул. Чехова,  3р-н Центральный",
+        "Выложено": "14 февраля 12:30",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_425_m_211_et._4702155158?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 2": {
+        "Заголовок": "Аукцион: 1-к. квартира, 21,2 м², 5/5 эт.",
+        "Цена": "от 1 990 000 ₽ // 93 868 ₽ за м²",
+        "Адрес": "мкр-н Курского Завода Тракторных Запчастей, Моковская ул.,  2Бр-н Сеймский",
+        "Выложено": "3 недели назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/auktsion_1-k._kvartira_212_m_55_et._4937480309?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 3": {
+        "Заголовок": "2-к. квартира, 68 м², 8/8 эт.",
+        "Цена": "7 499 000 ₽ // 110 279 ₽ за м²",
+        "Адрес": "ул. Росинка,  7р-н Центральный",
+        "Выложено": "3 недели назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_68_m_88_et._4584581909?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 4": {
+        "Заголовок": "3-к. квартира, 72,9 м², 5/10 эт.",
+        "Цена": "9 400 000 ₽ // 128 944 ₽ за м²",
+        "Адрес": "мкр-н Северо-Западный, ул. Константина Воробьёва,  23Ар-н Центральный",
+        "Выложено": "31 января 11:35",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_729_m_510_et._4687520504?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 5": {
+        "Заголовок": "1-к. квартира, 46,9 м², 14/16 эт.",
+        "Цена": "6 350 000 ₽ // 135 394 ₽ за м²",
+        "Адрес": "пр-т Анатолия Дериглазова,  31р-н Центральный",
+        "Выложено": "9 февраля 00:23",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_469_m_1416_et._4655443412?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 6": {
+        "Заголовок": "3-к. квартира, 76,9 м², 8/17 эт.",
+        "Цена": "9 450 000 ₽ // 122 887 ₽ за м²",
+        "Адрес": "пр-т Анатолия Дериглазова, 77р-н Центральный",
+        "Выложено": "1 неделю назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_769_m_817_et._7260791466?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 7": {
+        "Заголовок": "3-к. квартира, 84,7 м², 2/4 эт.",
+        "Цена": "8 500 000 ₽ // 100 354 ₽ за м²",
+        "Адрес": "ул. Чехова,  3р-н Центральный",
+        "Выложено": "18 сентября 2022",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_847_m_24_et._2526015089?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 8": {
+        "Заголовок": "1-к. квартира, 32,1 м², 3/5 эт.",
+        "Цена": "4 100 000 ₽ // 127 726 ₽ за м²",
+        "Адрес": "Сумская ул.,  48р-н Сеймский",
+        "Выложено": "7 дней назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_321_m_35_et._7229458255?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 9": {
+        "Заголовок": "2-к. квартира, 49,9 м², 8/10 эт.",
+        "Цена": "4 740 000 ₽ // 94 990 ₽ за м²",
+        "Адрес": "ул. Энгельса,  д. 158Курск",
+        "Выложено": "16 января 17:49",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_499_m_810_et._7250893162?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 10": {
+        "Заголовок": "3-к. квартира, 64 м², 16/17 эт.",
+        "Цена": "6 692 700 ₽ // 104 573 ₽ за м²",
+        "Адрес": "ул. Энгельса, д. 115, поз. 4Курск",
+        "Выложено": "2 недели назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_64_m_1617_et._3927082811?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 11": {
+        "Заголовок": "4-к. квартира, 104,6 м², 1/8 эт.",
+        "Цена": "9 935 100 ₽ // 94 982 ₽ за м²",
+        "Адрес": "ул. Росинка,  д. 8Курск",
+        "Выложено": "12 февраля 06:44",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/4-k._kvartira_1046_m_18_et._2544122367?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 12": {
+        "Заголовок": "1-к. квартира, 18,6 м², 2/5 эт.",
+        "Цена": "2 270 000 ₽ // 122 043 ₽ за м²",
+        "Адрес": "Сумская ул.,  37Бк1р-н Сеймский",
+        "Выложено": "6 сентября 2024",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_186_m_25_et._4569252882?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 13": {
+        "Заголовок": "1-к. квартира, 45 м², 8/17 эт.",
+        "Цена": "6 250 000 ₽ // 138 889 ₽ за м²",
+        "Адрес": "пр-т Победы,  44р-н Центральный",
+        "Выложено": "3 дня назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_45_m_817_et._7205417374?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 14": {
+        "Заголовок": "1-к. квартира, 30,6 м², 3/5 эт.",
+        "Цена": "5 150 000 ₽ // 168 301 ₽ за м²",
+        "Адрес": "Ендовищенская ул.,  2р-н Центральный",
+        "Выложено": "22 января 19:59",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_306_m_35_et._4611317326?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 15": {
+        "Заголовок": "Своб. планировка, 68,1 м², 5/10 эт.",
+        "Цена": "9 300 000 ₽ // 136 564 ₽ за м²",
+        "Адрес": "Советская ул.,  12р-н Центральный",
+        "Выложено": "23 февраля 22:08",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/svob._planirovka_681_m_510_et._4356466280?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 16": {
+        "Заголовок": "3-к. квартира, 60,8 м², 5/9 эт.",
+        "Цена": "6 950 000 ₽ // 114 309 ₽ за м²",
+        "Адрес": "ул. Серёгина,  30р-н Сеймский",
+        "Выложено": "2 недели назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_608_m_59_et._7258680064?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 17": {
+        "Заголовок": "3-к. квартира, 52,2 м², 4/5 эт.",
+        "Цена": "4 850 000 ₽ // 92 912 ₽ за м²",
+        "Адрес": "Союзная ул.,  13р-н Железнодорожный",
+        "Выложено": "1 неделю назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_522_m_45_et._4573026945?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 18": {
+        "Заголовок": "1-к. квартира, 35,5 м², 3/9 эт.",
+        "Цена": "4 600 000 ₽ // 129 577 ₽ за м²",
+        "Адрес": "Орловская ул.,  8р-н Центральный",
+        "Выложено": "7 дней назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_355_m_39_et._4668711405?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 19": {
+        "Заголовок": "1-к. квартира, 37,4 м², 16/17 эт.",
+        "Цена": "4 500 000 ₽ // 120 321 ₽ за м²",
+        "Адрес": "пр-т Вячеслава Клыкова,  20р-н Центральный",
+        "Выложено": "14 февраля 00:12",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_374_m_1617_et._5009520305?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 20": {
+        "Заголовок": "3-к. квартира, 60,1 м², 4/9 эт.",
+        "Цена": "6 700 000 ₽ // 111 481 ₽ за м²",
+        "Адрес": "мкр-н Северо-Западный, Веспремская ул.,  3р-н Центральный",
+        "Выложено": "21 февраля 10:18",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_601_m_49_et._7250829004?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 21": {
+        "Заголовок": "1-к. квартира, 37,5 м², 8/17 эт.",
+        "Цена": "4 200 000 ₽ // 112 000 ₽ за м²",
+        "Адрес": "пр-т Вячеслава Клыкова,  57р-н Центральный",
+        "Выложено": "2 недели назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_375_m_817_et._7231753446?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 22": {
+        "Заголовок": "3-к. квартира, 79 м², 1/17 эт.",
+        "Цена": "8 400 000 ₽ // 106 329 ₽ за м²",
+        "Адрес": "пр-т Анатолия Дериглазова,  47р-н Центральный",
+        "Выложено": "23 января 09:26",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_79_m_117_et._4825641930?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 23": {
+        "Заголовок": "1-к. квартира, 39 м², 2/6 эт.",
+        "Цена": "6 200 000 ₽ // 158 974 ₽ за м²",
+        "Адрес": "ул. Володарского,  56р-н Центральный",
+        "Выложено": "3 недели назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_39_m_26_et._4624841333?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 24": {
+        "Заголовок": "2-к. квартира, 66,5 м², 5/10 эт.",
+        "Цена": "9 600 000 ₽ // 144 361 ₽ за м²",
+        "Адрес": "1-я Пушкарная ул., 21р-н Центральный",
+        "Выложено": "1 неделю назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_665_m_510_et._7216896395?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 25": {
+        "Заголовок": "1-к. квартира, 43,3 м², 2/9 эт.",
+        "Цена": "5 200 000 ₽ // 120 092 ₽ за м²",
+        "Адрес": "ул. Гайдара,  5р-н Центральный",
+        "Выложено": "18 марта 2024",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_433_m_29_et._4573429940?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 26": {
+        "Заголовок": "2-к. квартира, 56,1 м², 10/17 эт.",
+        "Цена": "6 750 000 ₽ // 120 321 ₽ за м²",
+        "Адрес": "пр-т Вячеслава Клыкова,  1р-н Центральный",
+        "Выложено": "2 недели назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_561_m_1017_et._4701009612?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 27": {
+        "Заголовок": "2-к. квартира, 58 м², 6/17 эт.",
+        "Цена": "7 100 000 ₽ // 122 414 ₽ за м²",
+        "Адрес": "пр-т Вячеслава Клыкова,  66р-н Центральный",
+        "Выложено": "23 января 14:07",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_58_m_617_et._7237823583?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 28": {
+        "Заголовок": "2-к. квартира, 69 м², 2/4 эт.",
+        "Цена": "7 100 000 ₽ // 102 899 ₽ за м²",
+        "Адрес": "Мирный пр.,  5р-н Центральный",
+        "Выложено": "27 января 18:36",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_69_m_24_et._3837044079?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 29": {
+        "Заголовок": "Квартира-студия, 24,5 м², 4/5 эт.",
+        "Цена": "3 670 000 ₽ // 149 796 ₽ за м²",
+        "Адрес": "Северный жилой район, ул. Генерала Григорова,  40р-н Центральный",
+        "Выложено": "Вчера",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/kvartira-studiya_245_m_45_et._7197234061?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 30": {
+        "Заголовок": "2-к. квартира, 56 м², 17/17 эт.",
+        "Цена": "7 800 000 ₽ // 139 286 ₽ за м²",
+        "Адрес": "пр-т Победы,  30р-н Центральный",
+        "Выложено": "25 февраля 16:19",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_56_m_1717_et._4372574007?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 31": {
+        "Заголовок": "3-к. квартира, 60,1 м², 8/9 эт.",
+        "Цена": "6 050 000 ₽ // 100 666 ₽ за м²",
+        "Адрес": "Хуторская ул.,  2Ар-н Центральный",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_601_m_89_et._4637526588?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 32": {
+        "Заголовок": "2-к. квартира, 43,1 м², 2/2 эт.",
+        "Цена": "4 000 000 ₽ // 92 807 ₽ за м²",
+        "Адрес": "мкр-н Курского Завода Тракторных Запчастей, Заводская ул.,  11р-н Сеймский",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_431_m_22_et._7235468897?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 33": {
+        "Заголовок": "2-к. квартира, 53,3 м², 3/9 эт.",
+        "Цена": "6 500 000 ₽ // 121 951 ₽ за м²",
+        "Адрес": "ул. Бойцов 9-й Дивизии,  185р-н Центральный",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_533_m_39_et._4938208215?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 34": {
+        "Заголовок": "3-к. квартира, 64 м², 16/17 эт.",
+        "Цена": "6 692 700 ₽ // 104 573 ₽ за м²",
+        "Адрес": "ул. Энгельса, д. 115, поз. 4р-н Сеймский",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/3-k._kvartira_64_m_1617_et._3927082811?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 35": {
+        "Заголовок": "Квартира-студия, 28,9 м², 9/10 эт.",
+        "Цена": "3 612 500 ₽ // 125 000 ₽ за м²",
+        "Адрес": "ул. Энгельса,  д. 158р-н Сеймский",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/kvartira-studiya_289_m_910_et._7250090274?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 36": {
+        "Заголовок": "Квартира-студия, 26 м², 14/17 эт.",
+        "Цена": "3 049 005 ₽ // 117 269 ₽ за м²",
+        "Адрес": "ул. Энгельса, д. 115, поз. 4р-н Сеймский",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/kvartira-studiya_26_m_1417_et._2679073169?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 37": {
+        "Заголовок": "2-к. квартира, 54,7 м², 2/10 эт.",
+        "Цена": "6 017 000 ₽ // 110 000 ₽ за м²",
+        "Адрес": "ул. Энгельса,  д. 158р-н Сеймский",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_547_m_210_et._3560618393?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 38": {
+        "Заголовок": "Квартира-студия, 28,9 м², 6/10 эт.",
+        "Цена": "3 468 000 ₽ // 120 000 ₽ за м²",
+        "Адрес": "ул. Энгельса,  д. 158р-н Сеймский",
+        "Выложено": "1 неделю назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/kvartira-studiya_289_m_610_et._7250603042?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 39": {
+        "Заголовок": "2-к. квартира, 49,9 м², 8/10 эт.",
+        "Цена": "4 740 000 ₽ // 94 990 ₽ за м²",
+        "Адрес": "ул. Энгельса,  д. 158р-н Сеймский",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_499_m_810_et._7250893162?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 40": {
+        "Заголовок": "2-к. квартира, 51,3 м², 7/10 эт.",
+        "Цена": "4 873 000 ₽ // 94 990 ₽ за м²",
+        "Адрес": "ул. Энгельса,  д. 158р-н Сеймский",
+        "Выложено": "18 октября 2024",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_513_m_710_et._7250103856?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 41": {
+        "Заголовок": "1-к. квартира, 30,3 м², 2/5 эт.",
+        "Цена": "3 290 000 ₽ // 108 581 ₽ за м²",
+        "Адрес": "Союзная ул.,  61Ар-н Железнодорожный",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_303_m_25_et._7235046610?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 42": {
+        "Заголовок": "2-к. квартира, 50,2 м², 8/8 эт.",
+        "Цена": "7 273 200 ₽ // 144 884 ₽ за м²",
+        "Адрес": "ул. Халтурина,  д. 8р-н Центральный",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_502_m_88_et._2851507861?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 43": {
+        "Заголовок": "1-к. квартира, 37,4 м², 2/17 эт.",
+        "Цена": "4 350 000 ₽ // 116 310 ₽ за м²",
+        "Адрес": "пр-т Вячеслава Клыкова,  7р-н Центральный",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_374_m_217_et._4296925774?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 44": {
+        "Заголовок": "4-к. квартира, 104,6 м², 1/8 эт.",
+        "Цена": "10 144 260 ₽ // 96 981 ₽ за м²",
+        "Адрес": "ул. Росинка,  д. 7р-н Центральный",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/4-k._kvartira_1046_m_18_et._2703945445?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 45": {
+        "Заголовок": "2-к. квартира, 64,4 м², 10/18 эт.",
+        "Цена": "6 660 225 ₽ // 103 420 ₽ за м²",
+        "Адрес": "ул. Энгельса, д. 115,  поз. 5р-н Сеймский",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_644_m_1018_et._7235554548?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 46": {
+        "Заголовок": "2-к. квартира, 32 м², 9/17 эт.",
+        "Цена": "3 602 490 ₽ // 112 578 ₽ за м²",
+        "Адрес": "ул. Энгельса, д. 115, поз. 4р-н Сеймский",
+        "Выложено": "3 недели назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_32_m_917_et._3926688588?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 47": {
+        "Заголовок": "1-к. квартира, 36,1 м², 2/10 эт.",
+        "Цена": "4 151 500 ₽ // 115 000 ₽ за м²",
+        "Адрес": "ул. Энгельса,  д. 158р-н Сеймский",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_361_m_210_et._7250911203?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 48": {
+        "Заголовок": "1-к. квартира, 45,8 м², 1/10 эт.",
+        "Цена": "3 984 600 ₽ // 87 000 ₽ за м²",
+        "Адрес": "ул. Усадебная, д. 2Ар-н Железнодорожный",
+        "Выложено": "1 час назад",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_458_m_110_et._4443173373?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 49": {
+        "Заголовок": "1-к. квартира, 47,4 м², 2/8 эт.",
+        "Цена": "7 500 000 ₽ // 158 228 ₽ за м²",
+        "Адрес": "ул. Карла Маркса,  66Др-н Центральный",
+        "Выложено": "21 декабря 2024",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_474_m_28_et._4786982617?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 50": {
+        "Заголовок": "1-к. квартира, 40,8 м², 12/17 эт.",
+        "Цена": "4 349 460 ₽ // 106 604 ₽ за м²",
+        "Адрес": "ул. Энгельса, д. 115, поз. 4р-н Сеймский",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_408_m_1217_et._7203353477?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 51": {
+        "Заголовок": "1-к. квартира, 30 м², 9/9 эт.",
+        "Цена": "5 000 000 ₽ // 166 667 ₽ за м²",
+        "Адрес": "ул. Блинова,  13/15р-н Центральный",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/1-k._kvartira_30_m_99_et._7291312720?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    },
+    "Квартира номер 52": {
+        "Заголовок": "2-к. квартира, 71,1 м², 5/5 эт.",
+        "Цена": "5 300 000 ₽ // 74 543 ₽ за м²",
+        "Адрес": "ул. Дзержинского,  90р-н Центральный",
+        "Выложено": "[ДАННЫЕ УДАЛЕНЫ]",
+        "Ссылка на пост": "https://www.avito.ru/kursk/kvartiry/2-k._kvartira_711_m_55_et._4549284406?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6IngiO3M6MTY6IlFMcjFQM0ZYZ1pqS1VwTTkiO30u6vLoJgAAAA"
+    }
+}
